@@ -1,0 +1,4 @@
+﻿<NavigationWindow x:Class="KitchenGame.Navigation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Navigation" Height="720" Width="1280" ShowsNavigationUI="False" Source="HomeMenu.xaml" WindowState="Maximized" WindowStyle="None" />

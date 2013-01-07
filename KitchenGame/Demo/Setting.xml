@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <Setting GameTime="90" ColdDownTime="3" ConfidenceValue="0.5" PictureSize="200" Language="zh-TW" MaterialMin="1" MaterialMax="6" CreateMaxTime="3" CreateMinTime="1" MaxDownSpeed="3" MinDownSpeed="1" SuccessSound="Success.mp3" FailSound="Fail.mp3" />
+</Settings>
+
+
+
